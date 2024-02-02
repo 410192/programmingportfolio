@@ -19,6 +19,6 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### Timeline
 
 
-![Gameplay]()
+![Gameplay](https://github.com/410192/programmingportfolio/blob/main/images/SG2.png?raw=true)
 
 [Source Code]()
