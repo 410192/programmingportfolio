@@ -14,10 +14,10 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ![Gameplay](https://github.com/410192/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
 
-[Source Code](https://github.com/410192/programmingportfolio/blob/main/src/SpaceGame.zip)
+[Source Code](https://github.com/410192/programmingportfolio/blob/main/src/SpaceGame.zip#:~:text=src-,SpaceGame,-.zip)
 
 ### Timeline
-
+The time in a line.
 
 ![Gameplay](https://github.com/410192/programmingportfolio/blob/main/images/SG2.png?raw=true)
 
