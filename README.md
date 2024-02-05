@@ -54,6 +54,6 @@ See what are your grades.
 ### Looping
 Create a draw with the arrows !
 
-![Gameplay]()
+![Gameplay](https://github.com/410192/programmingportfolio/blob/main/images/SG7.png?raw=true)
 
 [Source Code](https://github.com/410192/programmingportfolio/blob/main/src/Looping.zip#:~:text=Grades.zip-,Looping,-.zip)
