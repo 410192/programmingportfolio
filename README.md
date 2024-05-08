@@ -86,5 +86,8 @@ Create funny word !
 
 [Source Code](https://github.com/410192/programmingportfolio/blob/main/src/WordMaker.zip#:~:text=Timeline.zip-,WordMaker,-.zip)
 
-### Group Prodject Link
+### Group Project Link
 [URL](https://github.com/Adrienqwerty/GroupeProjectNumberOne)
+
+### Individual Project Link
+[URL](https://github.com/410192/Computer-Programming-Individual-Project)
