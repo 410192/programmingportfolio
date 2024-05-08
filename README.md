@@ -90,4 +90,4 @@ Create funny word !
 [URL](https://github.com/Adrienqwerty/GroupeProjectNumberOne)
 
 ### Individual Project Link
-[URL](https://github.com/410192/Computer-Programming-Individual-Project)
+[URL](https://410192.github.io/Computer-Programming-Individual-Project/)
